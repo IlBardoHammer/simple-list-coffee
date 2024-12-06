@@ -1,4 +1,4 @@
-# React + Vite
+# Simple List Coffee (React.js)
 
 Responsive web-app built in React & Vite, and styled with Tailwind CSS
 
